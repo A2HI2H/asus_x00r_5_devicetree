@@ -1,4 +1,4 @@
-# Common device configuration for Xiaomi Redmi 3S
+# Common device configuration for Zenfone Lite L1
 
 ## Spec Sheet
 
