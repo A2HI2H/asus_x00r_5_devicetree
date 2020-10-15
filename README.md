@@ -20,7 +20,7 @@
 
 ## Device Picture
 
-![Redmi 3S](http://cdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-3-pro-2.jpg "Redmi 3S")
+![Zenfone Lite L1](https://www.91-img.com/pictures/130635-v3-asus-zenfone-lite-l1-mobile-phone-large-1.jpg?tr=q-60")
 
 ## Copyright
 
